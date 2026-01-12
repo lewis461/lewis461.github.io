@@ -10,3 +10,10 @@ img[alt="Logo"] {
   border-radius: 6px; 
   margin-bottom: 1rem;
 }
+
+.me {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  font-weight: 600;
+}
