@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Profile image size control */
+img[alt="Logo"] {
+  max-width: 160px;   
+  height: auto;
+  border-radius: 6px; 
+  margin-bottom: 1rem;
+}
