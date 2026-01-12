@@ -2,17 +2,17 @@
 layout: default
 ---
 
-## Your Name
+Kihwan Kim
 
-Your Title / Position
+CV / Research Assistant
 
-Email: your@email.com
+Email: lewis461@sogang.ac.kr
 
-Affiliation: Your affiliation line
+Affiliation: Data Intensive AI Computing & Systems (DISCOS) Laboratory, Sogang University. (2024.01-Present)
 
 ### Education
-- M.S. in Computer Science, Your University — 2024.03 – 2026.02
-- B.S. in Computer Science, Your University — 2020.03 – 2024.02
+- M.S. in Computer Science, Sogang University — 2024.09 – 2026.08
+- B.S. in Computer Science, Sogang University — 2019.03 – 2024.08
 
 ### Career
 - Your Role, Company — 2026.01 – Present
@@ -30,7 +30,6 @@ Affiliation: Your affiliation line
 ### Skills
 - C/C++
 - Python
-- Rust
 
 ### Links
 - [GitHub](https://github.com/yourid)
