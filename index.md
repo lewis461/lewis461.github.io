@@ -9,13 +9,12 @@ Research Assistant
 Email: [lewis461@sogang.ac.kr](mailto:lewis461@sogang.ac.kr)
 
 Affiliation:  
-Data Intensive AI Computing & Systems (DISCOS) Laboratory,  
-Sogang University (2024.01 – Present)
+Data Intensive AI Computing & Systems (DISCOS) Laboratory, Sogang University (2024.01 – Present)
 
 ---
 
 ## Education
-- **M.S. in Computer Science (Enrolled)**, Sogang University  
+- **M.S. in Computer Science**, Sogang University  
   2024.09 – 2026.08
 - **B.S. in Mathematics & Computer Science (Double Major)**, Sogang University  
   2019.03 – 2024.08
@@ -30,15 +29,14 @@ Sogang University (2024.01 – Present)
 Hongsu Byun, Myungcheol Lee, Jinchun Choi, Youngjae Kim 
   *Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)*,  
   Milano, Italy, June 3–7, 2025.  
-  *(Accepted in the 1st round review decision, Acceptance Rate < 10%)*  
-  **[BK Plus Computer Science IF=2] [KIISE Outstanding]**
+  <!-- **[BK Plus Computer Science IF=2] [KIISE Outstanding]** -->
 
 - **OPENCXD: An Open Real-Device-Guided Hybrid Evaluation Framework for CXL-SSDs**  
   Hyunsun Chung, Junhyeok Park, Taewan Noh, Seonghoon Ahn,  
   <span class="me">Kihwan Kim</span>, Ming Zhao, Youngjae Kim  
   *Proceedings of the IEEE International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS 2025)*,  
   Paris, France, October 21–23, 2025.  
-  **[BK Plus Computer Science IF=2] [KIISE Excellence]**
+  <!-- **[BK Plus Computer Science IF=2] [KIISE Excellence]** -->
 
 ### Domestic Conference
 - **질의 처리율 가속화를 위한 멀티 CSD 기반 문서형 데이터베이스 설계**  
@@ -52,8 +50,8 @@ Hongsu Byun, Myungcheol Lee, Jinchun Choi, Youngjae Kim
 - **우수발표논문상**, 한국소프트웨어종합학술대회 (KSC 2024)  
   - Awarded by: 한국정보과학회  
   - Paper: *질의 처리율 가속화를 위한 멀티 CSD 기반 문서형 데이터베이스 설계*  
-  - Presenter: **Kihwan Kim**  
-  
+  - Presenter: Kihwan Kim
+
 ---
 
 ## Research Interests
