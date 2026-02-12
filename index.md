@@ -37,7 +37,12 @@ Hongsu Byun, Myungcheol Lee, Jinchun Choi, Youngjae Kim
   Paris, France, October 21–23, 2025[(pdf)](https://ieeexplore.ieee.org/document/11283378).  
   <!-- **[BK Plus Computer Science IF=2] [KIISE Excellence]** -->
 
-- **Scaling HNSW Search with DPU Memory and Parallelism(working title)**, under review
+- **VEX: Scaling HNSW-Based Vector Search with DPU Memory and Parallelism**
+  <span class="me">Kihwan Kim</span>, Hyungsun Yoo, Woojung Kim, Donghyun Min,
+  Myungcheol Lee, Jihoon Yang, Weikuan Yu, Youngjae Kim
+  *Proceedings of the IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID 2026)*,  
+  Sydney, Australia, May 18-21, 2026
+
 
 ### Domestic Conference
 - **질의 처리율 가속화를 위한 멀티 CSD 기반 문서형 데이터베이스 설계**  
