@@ -41,7 +41,7 @@ Hongsu Byun, Myungcheol Lee, Jinchun Choi, Youngjae Kim
   <span class="me">Kihwan Kim</span>, Hyungsun Yoo, Woojung Kim, Donghyun Min,
   Myungcheol Lee, Jihoon Yang, Weikuan Yu, Youngjae Kim
   *Proceedings of the IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID 2026)*,  
-  Sydney, Australia, May 18-21, 2026
+  Sydney, Australia, May 18-21, 2026[(pdf)](https://discos.sogang.ac.kr/file/2026/intl_conf/CCGRID_2026_K_Kim.pdf).
 
 
 ### Domestic Conference
@@ -60,13 +60,12 @@ Hongsu Byun, Myungcheol Lee, Jinchun Choi, Youngjae Kim
 
 ---
 
-## Teaching & Talk
+## Teaching
 - TA Experience
   - Design and Analysis of Algorithms(CSE3081, AIE3051), Fall 2024
   - System Programming(CSE4100, AIE4050), Spring 2025
   - Advanced Database System(CSE6401), Spring 2025
   - Hacking and Information Security(CSE4104), Fall 2025
-- Talk
 
 ---
 ## Skill & Interest
